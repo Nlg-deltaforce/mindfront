@@ -1,0 +1,86 @@
+{
+  "name": "MetaViral Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://metaviralswap.com/logo.png",
+  "keywords": ["metaviralswap", "default"],
+  "tokens": [
+    {
+      "name": "WMTV Token",
+      "symbol": "WMTV",
+      "address": "0x3026EDD7D037Fef2d1Dd25ef4Ff2E87c0244a041",
+      "chainId": 10434,
+      "decimals": 18,
+      "logoURI": "https://metaviralswap.com/images/tokens/0x3026EDD7D037Fef2d1Dd25ef4Ff2E87c0244a041.png"
+    },
+{
+      "name": "GoldBar",
+      "symbol": "GOLD",
+      "address": "0x1Ae9C0a9a787A83a3a746Ab724F616B8b1A81E61",
+      "chainId": 10434,
+      "decimals": 18,
+      "logoURI": "https://ipfs.io/ipfs/QmXbSBWNU5DmJyX5R7aF32GNjotjXAgTYV4LjBJcWiueHz"
+    },
+    {
+      "name": "MetaViral USD",
+      "symbol": "MUSD",
+      "address": "0x175E3ed552F3273662F8402e8A9621dB35C27097",
+      "chainId": 10434,
+      "decimals": 18,
+      "logoURI": "https://metaviralswap.com/images/tokens/0x3aA7D6a99aB3Bf6CC5c6111fFc0d6a2b062bD067.png"
+    },
+    {
+      "name": "MetaViral USD-PEG Tether USD",
+      "symbol": "USDT",
+      "address": "0xf8b4c612774DeB4e794f3157D7942e344f696970",
+      "chainId": 10434,
+      "decimals": 18,
+      "logoURI": "https://metaviralswap.com/images/tokens/0xE67002E8d2954240CE6ee6b1C148aDb3836489Ae.png"
+    },
+    {
+      "name": "MetaViralManna Token",
+      "symbol": "MTN",
+      "address": "0xd30854a284C72Ef4969B74b64628DB4bD697e900",
+      "chainId": 10434,
+      "decimals": 18,
+      "logoURI": "https://metaviralswap.com/images/tokens/0xd30854a284C72Ef4969B74b64628DB4bD697e900.png"
+    },
+    {
+      "name": "BERYL",
+      "symbol": "BEL",
+      "address": "0x48177d55a2931372dB6662f92a7Dd33c3D471B19",
+      "chainId": 10434,
+      "decimals": 18,
+      "logoURI": "https://metaviralswap.com/images/tokens/0x48177d55a2931372dB6662f92a7Dd33c3D471B19.png"
+    },
+    {
+      "name": "CARBUNCLES",
+      "symbol": "CBS",
+      "address": "0x3b95bB738447a27eB256DE4Cf2D7727D9595ECb9",
+      "chainId": 10434,
+      "decimals": 18,
+      "logoURI": "https://metaviralswap.com/images/tokens/0x3b95bB738447a27eB256DE4Cf2D7727D9595ECb9.png"
+    },
+    {
+      "name": "EMERALD",
+      "symbol": "ELD",
+      "address": "0xcbD98D548315c321ab05d4fe964b4Dc838CA51cf",
+      "chainId": 10434,
+      "decimals": 18,
+      "logoURI": "https://metaviralswap.com/images/tokens/0xcbD98D548315c321ab05d4fe964b4Dc838CA51cf.png"
+    },
+    {
+      "name": "SARDIUS",
+      "symbol": "SAS",
+      "address": "0x3a945Ccf05001d34208b3336b2735F399f8065CB",
+      "chainId": 10434,
+      "decimals": 18,
+      "logoURI": "https://metaviralswap.com/images/tokens/0x3a945Ccf05001d34208b3336b2735F399f8065CB.png"
+    }
+  ]
+}
